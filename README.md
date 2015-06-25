@@ -1,2 +1,2 @@
 # Oracle_Database
-Fully functional Oracle database of a zoo
+Fully functional Oracle database for a zoo
